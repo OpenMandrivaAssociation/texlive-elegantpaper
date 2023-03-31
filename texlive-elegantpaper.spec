@@ -1,6 +1,6 @@
 Name:		texlive-elegantpaper
 Version:	62989
-Release:	1
+Release:	2
 Summary:	An Elegant LaTeX Template for Working Papers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/elegantpaper
