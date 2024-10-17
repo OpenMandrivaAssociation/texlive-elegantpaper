@@ -3,7 +3,7 @@ Version:	62989
 Release:	2
 Summary:	An Elegant LaTeX Template for Working Papers
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/elegantpaper
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/elegantpaper
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/elegantpaper.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/elegantpaper.doc.r%{version}.tar.xz
